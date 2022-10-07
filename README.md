@@ -4,7 +4,7 @@ Created a RESTful web service for the following users:
 
 #Manager:
 
-	  Login / logout
+	  	Login / logout
 		Change password
 		Add expenses
 		Update expenses
